@@ -1,0 +1,38 @@
+MODELO COM VARIOS LINKS
+
+<item>
+<title>Acústico MTV - Charlie Brown Jr</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1OGLkX0pAnp9jDy0mL3xOK5PFOjXkYDcK/view$$lsname= - Acústico MTV - Charlie Brown Jr</link>[COLOR orange]IOS[/COLOR]
+<link>https://www.youtube.com/watch?v=xqbPnm2XlFQ&feature=youtu.be$$lsname= - Acústico MTV - Charlie Brown Jr</link>[COLOR orange]YOUTUBE[/COLOR]
+<thumbnail>https://ia601408.us.archive.org/25/items/mtv-acustico-charlie-brown-jr/MTV%20Ac%C3%BAstico%20-%20Charlie%20Brown%20Jr.png</thumbnail>
+<fanart>https://ia601408.us.archive.org/25/items/mtv-acustico-charlie-brown-jr/MTV%20Ac%C3%BAstico%20-%20Charlie%20Brown%20Jr_fanart.jpg</fanart>
+<info>Titulo Original: Charlie.Brown.Jr MTV
+Lançamento:  2012
+Gênero: Shows
+Formato: AVI
+Idioma: PT BR
+Tamanho: 701 MB
+Duração: 1h 10min
+
+Sinopse: Uma das maiores bandas de rock do Brasil traz neste DVD, ótimas versões acústicas de seus maiores sucessos como "Quinta-feira", "Só Por Uma Noite" e "Proibida Pra Mim", entre outros. Confira também interessantes regravações, músicas inéditas e participações especiais de Marcelo D2, Marcelo Nova e Negra Li.</info>
+<item>
+
+MODELO GDRIVE DE APENAS UM LINK
+
+<item>
+<title></title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=URL AQUI?usp=drivesdk</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info>
+<item>
+
+MODELO UNIVERSAL DE APENAS UM LINK
+
+<item>
+<title></title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info>
+<item>
