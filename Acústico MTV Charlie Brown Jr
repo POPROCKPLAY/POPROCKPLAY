@@ -1,14 +1,3 @@
-MODELO COM VARIOS LINKS
-
-<item>
-<title>Acustico MTV Charlie Brown Jr</title>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1Y91v_Jc5_TRO-ZSdqVrs26W_nu6XzU-f/view$$lsname=[COLOR white]Acustico MTV Charlie Brown Jr [COLOR orange]SD[/COLOR]</link>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=URL AQUI$$lsname=[COLOR orange]HD[/COLOR]</link>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=URL AQUI$$lsname=[COLOR orange]HD[/COLOR]</link>
-<thumbnail>https://ia601408.us.archive.org/25/items/mtv-acustico-charlie-brown-jr/MTV%20Ac%C3%BAstico%20-%20Charlie%20Brown%20Jr.png</thumbnail>
-<fanart>https://ia801408.us.archive.org/25/items/mtv-acustico-charlie-brown-jr/MTV%20Ac%C3%BAstico%20-%20Charlie%20Brown%20Jr_fanart.jpg</fanart>
-<info><item>
-
 MODELO GDRIVE DE APENAS UM LINK
 
 <item>
@@ -19,12 +8,3 @@ MODELO GDRIVE DE APENAS UM LINK
 <info></info>
 <item>
 
-MODELO UNIVERSAL DE APENAS UM LINK
-
-<item>
-<title>Acustico MTV Charlie Brown Jr</title>
-<link></link>
-<thumbnail>https://ia601408.us.archive.org/25/items/mtv-acustico-charlie-brown-jr/MTV%20Ac%C3%BAstico%20-%20Charlie%20Brown%20Jr.png</thumbnail>
-<fanart>https://ia801408.us.archive.org/25/items/mtv-acustico-charlie-brown-jr/MTV%20Ac%C3%BAstico%20-%20Charlie%20Brown%20Jr_fanart</fanart>
-<info></info>
-<item>
