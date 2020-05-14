@@ -1,0 +1,30 @@
+MODELO COM VARIOS LINKS
+
+<item>
+<title>Acústico MTV Charlie Brown Jr</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1QWkTxjemigL9Rmhq85tb2jc5Hx4nIyfb/view$$lsname=[COLOR orange]HD[/COLOR]Acústico MTV Charlie Brown JR</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=URL AQUI$$lsname=[COLOR orange]HD[/COLOR] LINK- 2</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=URL AQUI$$lsname=[COLOR orange]HD[/COLOR] LINK- 3</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info><item>
+
+MODELO GDRIVE DE APENAS UM LINK
+
+<item>
+<title></title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=URL AQUI?usp=drivesdk</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info>
+<item>
+
+MODELO UNIVERSAL DE APENAS UM LINK
+
+<item>
+<title></title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info>
+<item>
