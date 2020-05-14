@@ -1,10 +1,8 @@
 MODELO COM VARIOS LINKS
 
 <item>
-<title>Acustico MTV Charlie Brown Jr</title>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1Y91v_Jc5_TRO-ZSdqVrs26W_nu6XzU-f/view$$lsname=[COLOR orange]SD[/COLOR] 1280x720</link>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=URL AQUI$$lsname=[COLOR orange]HD[/COLOR] LINK - 2</link>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=URL AQUI$$lsname=[COLOR orange]HD[/COLOR] LINK - 3</link>
+<title></title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1Y91v_Jc5_TRO-ZSdqVrs26W_nu6XzU-f/view$$lsname=[COLOR white]Acustico MTV Charlie Brown Jr[COLOR orange]SD[/COLOR]</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <info><item>
