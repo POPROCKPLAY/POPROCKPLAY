@@ -1,6 +1,6 @@
 <channels>
 <channel>
-<name>[COLOR white][B]ROCK NACIONAL[/B][/COLOR]</name>
+<name>[COLOR red][B]ROCK NACIONAL[/B][/COLOR]</name>
 <thumbnail>https://ia601406.us.archive.org/30/items/rock-nacional_202005/ROCK%20NACIONAL.png</thumbnail>
 <externallink>https://</externallink>
 <fanart>https://ia601406.us.archive.org/30/items/rock-nacional_202005/fanart2.jpg</fanart>
@@ -14,7 +14,7 @@
 
 <channels>
 <channel>
-<name>[COLOR white][B]ROCK INTERNACIONAL[/B][/COLOR]</name>
+<name>[COLOR red][B]ROCK INTERNACIONAL[/B][/COLOR]</name>
 <thumbnail>https://ia601406.us.archive.org/30/items/rock-nacional_202005/ROCK%20INTERNACIONAL.png</thumbnail>
 <externallink>https://</externallink>
 <fanart>https://ia601406.us.archive.org/30/items/rock-nacional_202005/fanart.jpg</fanart>
@@ -25,3 +25,18 @@
 </channels>
 
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+<channels>
+<channel>
+<name>[COLOR red][B]Sertanejo[/B][/COLOR]</name>
+<thumbnail>https://ia601406.us.archive.org/30/items/rock-nacional_202005/ROCK%20INTERNACIONAL.png</thumbnail>
+<externallink>https://</externallink>
+<fanart>https://ia601406.us.archive.org/30/items/rock-nacional_202005/fanart.jpg</fanart>
+<info>
+
+[COLOR white]|[/COLOR] - Em Construção - [COLOR white]|[/COLOR]</info>
+</channel>
+</channels>
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
