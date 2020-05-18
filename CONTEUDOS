@@ -8,7 +8,7 @@
 
 <channels>
 <channel>
-<name>[COLOR white][B]SHOWS[/B][/COLOR]</name>
+<name>[COLOR red][B]SHOWS[/B][/COLOR]</name>
 <thumbnail>https://ia601508.us.archive.org/19/items/live_20200510/LIVE.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/POPROCKPLAY/POPROCKPLAY/master/SHOWS</externallink>
 <fanart>https://ia801500.us.archive.org/1/items/bem-vindos_202005/fanart.jpg.jpg</fanart>
@@ -29,7 +29,7 @@
 
 <channels>
 <channel>
-<name>[COLOR white][B]EM BREVE[/B][/COLOR]</name>
+<name>[COLOR red][B]EM BREVE[/B][/COLOR]</name>
 <thumbnail></thumbnail>
 <externallink>https://</externallink>
 <fanart></fanart>
