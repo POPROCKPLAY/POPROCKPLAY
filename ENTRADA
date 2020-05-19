@@ -1,13 +1,13 @@
 <channels>
 <channel>
-<name>[COLOR white]BEM VINDOS - POPROCK [/COLOR][COLOR red]PLAY[/COLOR]</name>
+<name>[COLOR white]POPROCK[/COLOR] [COLOR red]PLAY[/COLOR][B]INFORMAÇOES[/B]</name>
 <thumbnail>https://ia801404.us.archive.org/7/items/icon_20200514/icon.png</thumbnail>
 <externallink>https://</externallink>
 <fanart>https://ia601500.us.archive.org/1/items/bem-vindos_202005/fanart.jpg.jpg</fanart>
 <info>
 
 
-[COLOR deeppink]|[/COLOR] - EM CONSTRUCAO! - [COLOR deeppink]|[/COLOR]</info>
+[COLOR deeppink]|[/COLOR]<externallink>http://www.mediafire.com/file/dja6on21a6zka4g/1-POPROCKPLAY.zip/file[COLOR deeppink]|[/COLOR]</externallink></info>
 </channel>
 </channels>
 
@@ -15,7 +15,7 @@
 
 <channels>
 <channel>
-<name>[COLOR white][B]SHOWS MTV[/B][/COLOR]</name>
+<name>[COLOR white][B]MTV[/B][/COLOR]</name>
 <thumbnail>https://archive.org/download/LOGOMTV/LOGOMTV.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/POPROCKPLAY/POPROCKPLAY/master/MTV</externallink>
 <fanart>https://ia601409.us.archive.org/13/items/LOGOMTV/mtv-1280x720.jpg</fanart>
@@ -38,15 +38,3 @@ Os shows são aqueles que atraem milhares de pessoas, Nada melhor que ver um gra
 </channels>
 
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
-
-<channels>
-<channel>
-<name>[COLOR red][B]EM BREVE[/B][/COLOR]</name>
-<thumbnail></thumbnail>
-<externallink>https://</externallink>
-<fanart></fanart>
-<info>
-
-INFORMAÇOES</info>
-</channel>
-</channels>
