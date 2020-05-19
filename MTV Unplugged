@@ -16,7 +16,7 @@ MTV Unplugged – Summer Solstice é composto por 21 canções que compõem o se
 **********Alice in Chains - MTV Unplugged**********
 
 <item>
-<title>[B]Alice in Chains MTV Unplugged[/B] [COLOR lime][B]1996[/B][/COLOR]</title>
+<title>[B][COLOR red]Alice in Chains MTV Unplugged[/B][/COLOR] [COLOR lime][B]1996[/B][/COLOR]</title>
 <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=URL AQUI?usp=drivesdk</link>
 <thumbnail>https://ia601408.us.archive.org/22/items/logo_20200519_202005/logo.png</thumbnail>
 <fanart>https://ia601408.us.archive.org/22/items/logo_20200519_202005/fanart.jpg</fanart>
@@ -72,10 +72,21 @@ Descrição:
 **********Bob Dylan MTV Unplugged**********
 
 <item>
-<title>[B]Bob Dylan MTV Unplugged[/B] [COLOR lime][B]1990[/B][/COLOR]</title>
+<title>[B][COLOR red]Bob Dylan MTV Unplugged[/B][/COLOR] [COLOR lime][B]1990[/B][/COLOR]</title>
 <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=URL AQUI?usp=drivesdk</link>
 <thumbnail>https://ia601400.us.archive.org/22/items/logo_20200519_20200519/logo.png</thumbnail>
 <fanart>https://ia601400.us.archive.org/22/items/logo_20200519_20200519/fanart.jpg</fanart>
+<info></info>
+<item>
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+**********Bryan Adams - MTV Unplugged**********
+
+<item>
+<title>[COLOR red][B]Bryan Adams - MTV Unplugged[/B][/COLOR [COLOR lime][B]1990[/B][/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=URL AQUI?usp=drivesdk</link>
+<thumbnail>https://</thumbnail>
+<fanart>https://</fanart>
 <info></info>
 <item>
 
