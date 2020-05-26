@@ -1,19 +1,5 @@
 <channels>
 <channel>
-<name>[COLOR white][B]MTV Unplugged[/B][/COLOR]</name>
-<thumbnail>https://ia601409.us.archive.org/22/items/mtv-unpluggedlogo/MTV%20Unpluggedlogo.png</thumbnail>
-<externallink>https://raw.githubusercontent.com/POPROCKPLAY/POPROCKPLAY/master/MTV%20Unplugged</externallink>
-<fanart>https://ia601409.us.archive.org/22/items/mtv-unpluggedlogo/MTV%20Unpluggedfanart.jpg</fanart>
-<info>
-
-[COLOR white]|[/COLOR]MTV Unplugged é uma série elaborada pela MTV que estreou em 1989, onde bandas e artistas tocam suas músicas em versão acústica, ou seja, com instrumentos acústicos e não elétricos. ... A primeira série do MTV Unplugged começou em 26 de Novembro de 1989 e contou com os nomes de Squeeze, Syd Straw e Elliot Easton.[COLOR white]|[/COLOR]</info>
-</channel>
-</channels>
-
-<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
-
-<channels>
-<channel>
 <name>[COLOR white][B]ACUSTICOS MTV[/B][/COLOR]</name>
 <thumbnail>https://ia601402.us.archive.org/30/items/acustico-mtv_202005/acustico%20mtv.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/POPROCKPLAY/POPROCKPLAY/master/Ac%C3%BAsticos%20MTV</externallink>
@@ -21,6 +7,20 @@
 <info>
 
 [COLOR white]|[/COLOR]Acústico MTV é um programa musical de televisão exibido originalmente pela MTV Brasil, inspirado na série MTV Unplugged, programa norte-americano criado em 1989 onde bandas e artistas tocam suas músicas em versão acústica, ou seja, com instrumentos acústicos e não elétricos[COLOR white]|[/COLOR]</info>
+</channel>
+</channels>
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+<channels>
+<channel>
+<name>[COLOR white][B]LUAU MTV[/B][/COLOR]</name>
+<thumbnail>https://ia801502.us.archive.org/15/items/luau-mtv/LUAU%20MTV.png</thumbnail>
+<externallink>https://</externallink>
+<fanart>https://ia801502.us.archive.org/15/items/luau-mtv/fanartLUAU.jpg</fanart>
+<info>
+
+[COLOR white]|[/COLOR] - LET'S GO BABY - [COLOR white]|[/COLOR]</info>
 </channel>
 </channels>
 
@@ -42,13 +42,13 @@
 
 <channels>
 <channel>
-<name>[COLOR white][B]LUAU MTV[/B][/COLOR]</name>
-<thumbnail>https://ia801502.us.archive.org/15/items/luau-mtv/LUAU%20MTV.png</thumbnail>
-<externallink>https://</externallink>
-<fanart>https://ia801502.us.archive.org/15/items/luau-mtv/fanartLUAU.jpg</fanart>
+<name>[COLOR white][B]MTV Unplugged[/B][/COLOR]</name>
+<thumbnail>https://ia601409.us.archive.org/22/items/mtv-unpluggedlogo/MTV%20Unpluggedlogo.png</thumbnail>
+<externallink>https://raw.githubusercontent.com/POPROCKPLAY/POPROCKPLAY/master/MTV%20Unplugged</externallink>
+<fanart>https://ia601409.us.archive.org/22/items/mtv-unpluggedlogo/MTV%20Unpluggedfanart.jpg</fanart>
 <info>
 
-[COLOR white]|[/COLOR] - LET'S GO BABY - [COLOR white]|[/COLOR]</info>
+[COLOR white]|[/COLOR]MTV Unplugged é uma série elaborada pela MTV que estreou em 1989, onde bandas e artistas tocam suas músicas em versão acústica, ou seja, com instrumentos acústicos e não elétricos. ... A primeira série do MTV Unplugged começou em 26 de Novembro de 1989 e contou com os nomes de Squeeze, Syd Straw e Elliot Easton.[COLOR white]|[/COLOR]</info>
 </channel>
 </channels>
 
