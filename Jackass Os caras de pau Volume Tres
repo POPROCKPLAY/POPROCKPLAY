@@ -54,7 +54,7 @@
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 <item>
 <title>[COLOR white][B]7.Gumball Special[/B][/COLOR]</title>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=URL AQUI?usp=drivesdk</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1pv6E4jlZumQczJY93cXU0GEOoknHbf5L/view?usp=sharing?usp=drivesdk</link>
 <thumbnail>https://ia601507.us.archive.org/3/items/logo2_202005/logo3.png</thumbnail>
 <fanart>https://ia801507.us.archive.org/3/items/logo2_202005/fanart.jpg</fanart>
 <info></info>
