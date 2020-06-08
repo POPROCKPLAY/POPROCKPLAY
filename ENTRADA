@@ -16,6 +16,18 @@ http://www.mediafire.com/file/dja6on21a6zka4g/1-POPROCKPLAY.zip/file
 
 <channels>
 <channel>
+<name>[COLOR white][B]ÁLBUNS ACÚSTICO[/B][/COLOR]</name>
+<thumbnail>https://archive.org/download/fanart_20200608_1736/acusticos.png</thumbnail>
+<externallink>https://raw.githubusercontent.com/POPROCKPLAY/POPROCKPLAY/master/CONTEUDOS</externallink>
+<fanart>https://ia801405.us.archive.org/32/items/fanart_20200608_1736/fanart.jpg</fanart>
+<info></info>
+</channel>
+</channels>
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+<channels>
+<channel>
 <name>[COLOR white][B]MTV[/B][/COLOR]</name>
 <thumbnail>https://archive.org/download/LOGOMTV/LOGOMTV.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/POPROCKPLAY/POPROCKPLAY/master/MTV</externallink>
@@ -25,6 +37,8 @@ http://www.mediafire.com/file/dja6on21a6zka4g/1-POPROCKPLAY.zip/file
 MTV</info>
 </channel>
 </channels>
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 
 <channels>
 <channel>
