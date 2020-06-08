@@ -1,5 +1,17 @@
 <channels>
 <channel>
+<name>[COLOR red][B]ACUSTICOS[/B][/COLOR]</name>
+<thumbnail></thumbnail>
+<externallink>https://</externallink>
+<fanart></fanart>
+<info>
+[COLOR white]|[/COLOR] ACUSTICOS [COLOR white]|[/COLOR]</info>
+</channel>
+</channels>
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+<channels>
+<channel>
 <name>[COLOR white][B]ACUSTICOS MTV[/B][/COLOR]</name>
 <thumbnail>https://ia601402.us.archive.org/30/items/acustico-mtv_202005/acustico%20mtv.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/POPROCKPLAY/POPROCKPLAY/master/MTV</externallink>
