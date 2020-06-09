@@ -14,7 +14,7 @@
 
 <channels>
 <channel>
-<name>[COLOR white][B]LUAU MTV[/B][/COLOR]</name>
+<name>[COLOR red][B]LUAU MTV[/B][/COLOR]</name>
 <thumbnail>https://ia801502.us.archive.org/15/items/luau-mtv/LUAU%20MTV.png</thumbnail>
 <externallink>https://</externallink>
 <fanart>https://ia801502.us.archive.org/15/items/luau-mtv/fanartLUAU.jpg</fanart>
@@ -30,7 +30,7 @@
 <channel>
 <name>[COLOR white][B]MTV AO VIVO[/B][/COLOR]</name>
 <thumbnail>https://ia601401.us.archive.org/11/items/fanartMTV/MTV%20AO%20VIVO.png</thumbnail>
-<externallink>https://</externallink>
+<externallink>https://raw.githubusercontent.com/POPROCKPLAY/POPROCKPLAY/master/MTV%20AO%20VIVO</externallink>
 <fanart>https://archive.org/download/fanartMTV/fanartMTV.jpg</fanart>
 <info>
 
