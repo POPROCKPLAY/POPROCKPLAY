@@ -83,19 +83,6 @@ Bem como os lançamentos independentes de DVD e Blu-ray, um DVD junto com uma ve
 
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 
-**********N
-**********Nirvana Live at the Paramount**********prp4
-
-<item>
-<title>[B]NOME ARTISTA[/B] [COLOR lime][B]1990[/B][/COLOR]</title>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=URL AQUI?usp=drivesdk</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info>
-<item>
-
-<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
-
 **********S
 **********Queen - We Will Rock You**********prp4
 
@@ -105,6 +92,19 @@ Bem como os lançamentos independentes de DVD e Blu-ray, um DVD junto com uma ve
 <thumbnail>https://ia601505.us.archive.org/5/items/fanart_20200613_1929/logo.png</thumbnail>
 <fanart>https://ia601505.us.archive.org/5/items/fanart_20200613_1929/fanart.jpg</fanart>
 <info>"We Will Rock You" é um single da banda britânica de rock Queen, também faixa de abertura do álbum News of the World e um dos maiores sucessos do grupo. A revista Rolling Stone a classificou como a 330ª das melhor canção de todos os tempos em 2004, enquanto a RIAA a pôs na 146ª posição dentre as músicas do século. Em 2009, "We Will Rock You" foi introduzida no Grammy Hall of Fame.</info>
+<item>
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+**********R
+**********Red Hot Chili Peppers - Live In Japan 2004**********prp4
+
+<item>
+<title>[B]Red Hot Chili Peppers - Live In Japan[/B] [COLOR lime][B]2004[/B][/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1jh9UeKtTukLGf3E_Cf9XExkwvmw8FHgX/view?usp=sharing?usp=drivesdk</link>
+<thumbnail>https://ia601403.us.archive.org/7/items/logo_20200613_20200613_2016/logo.png</thumbnail>
+<fanart>https://ia601403.us.archive.org/7/items/logo_20200613_20200613_2016/fanart.jpg</fanart>
+<info></info>
 <item>
 
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
